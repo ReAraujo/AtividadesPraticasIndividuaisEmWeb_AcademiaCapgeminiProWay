@@ -1,4 +1,4 @@
-# <h2>Atividades Práticas Individuais em Web na Academia Capgemini& ProWay</h2>
+# <h2>Atividades Práticas Individuais em Web na Academia Capgemini & ProWay</h2>
 Repositório criado para armazenar as Atividades Práticas Individuais sobre Web da Academia Java &amp; Angular da Capgemini &amp; ProWay.
 
 <h3>AtividadePratica32</h3>
