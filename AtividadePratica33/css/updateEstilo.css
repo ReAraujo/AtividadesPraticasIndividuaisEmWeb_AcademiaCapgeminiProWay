@@ -15,3 +15,57 @@ h3{
     text-decoration: underline;
     font-size: 23px; 
 }
+
+form{
+    background: #FFAA64;
+    color: #fff;
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 20px 5%;
+    text-align: left;
+}
+
+label{
+    text-transform: uppercase;
+    font-size: 14px;
+    width: 25%;
+    text-align: left;
+    display: inline-block;
+}
+
+input{
+    margin-top: 5px;
+    font-size: 17px;
+    line-height: 20px;
+    width: 40%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="submit"], button{
+    cursor: pointer;
+    background: #DC5353;
+    color: #fff;
+    height: 30px;
+    width: 15%;
+    
+}
+input[type="submit"]:hover{
+    background: #fff;
+    color: #DC5353;
+    border: 1px solid #DC5353;
+}
+
+a{
+    background: #DC5353;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border: 5px solid #DC5353;
+    height: 15px;
+    width: 10%;
+}
+a:hover{
+    background: #FF8264;
+    color: #fff;
+    padding: 2px 20px;
+}

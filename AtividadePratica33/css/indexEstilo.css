@@ -21,10 +21,31 @@ div{
     width: 60%;
     margin: auto;
     padding: 20px 50px;
-    text-align: left;
+    text-align: center;
     border-radius: 5px;
 }
 
+span{
+    color:#FFFE9A;
+    text-transform: uppercase;
+
+}
+
+a{
+    color: #DC5353;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    background: #FF8264;
+    color: #fff;
+    padding: 5px 30px;
+}
+.labels{
+    width: 25%;
+    text-align: left;
+    display: inline-block;
+}
 
 
 

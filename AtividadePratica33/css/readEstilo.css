@@ -24,6 +24,7 @@ table{
 }
 table thead{
     background: #DC5353;
+    color: #fff;
     font-size: 14px;
     text-transform: uppercase;
     height: 30px;
@@ -39,4 +40,19 @@ table tbody tr{
 table tbody tr td{
     padding: 8px 10px;
     border: 1px solid #DC5353;
+}
+
+a{
+    background: #DC5353;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border: 5px solid #DC5353;
+    height: 15px;
+    width: 10%;
+}
+a:hover{
+    background: #FF8264;
+    color: #fff;
+    padding: 2px 20px;
 }
