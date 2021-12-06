@@ -14,7 +14,7 @@ Repositório criado para armazenar as Atividades Práticas Individuais sobre Web
 <br />
 Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/11NVK5NFqxRe8ZAbfhPCOiUwTC9yZQFIKQDPFd36g-IY/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 32<a/>
 <br />   
-Link resolução Atividade: <a href="">AtividadePratica32<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_Web_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica32">AtividadePratica32<a/>
 <br />
   
 <h3>AtividadePratica33</h3>
