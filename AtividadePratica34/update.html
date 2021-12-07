@@ -1,24 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Travel The World - Alterar</title>
         <link rel="stylesheet" href="css/updateEstilo.css">
+        <script src="js/scripts.js"></script>
     </head>
     <body>
         <h1>Travel The World - Alterar</h1>
         <h3>Editando a sua viagem:</h3>    
             <form>
-                <label>Código do pedido da viagem:</label><input type="number" /> <br />
-                <label>Nome do pacote ou local de ida:</label><input type="text" /> <br />
-                <label>Quantidade de diárias:</label><input type="number" /> <br />
-                <label>Status pedido:</label><input type="text" /> <br />
-                <label>Status pagamento:</label><input type="text" /> <br />
+                <label>Código do pedido da viagem:</label>
+                <input type="number" id="codigoviagem" /> <br />
+
+                <label>Nome do pacote ou local de ida:</label>
+                <input type="text" id="nomepacote" /> <br />
+
+                <label>Quantidade de diárias:</label>
+                <input type="number" id="diarias" /> <br />
+
+                <label>Data de ida:</label>
+                <input type="date" id="dataida" /> <br />
+
+                <label>Data de retorno:</label>
+                <input type="date" id="dataretorno" /> <br />
+
+                <label>Status pedido:</label>
+                <input type="text" id="statuspedido" /> <br />
+
+                <label>Status pagamento:</label>
+                <input type="text" type="statuspagamento" /> <br />
 
                 <br />
-                <input type="submit" value="Salvar alteração">
+                <input type="submit" value="Salvar alteração" onclick="salvar(event)">
             </form>
         
         <br />

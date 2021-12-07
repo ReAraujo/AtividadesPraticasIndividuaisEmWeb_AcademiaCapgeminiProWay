@@ -1,39 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Travel The World - Cadastrar</title>
         <link rel="stylesheet" href="css/createEstilo.css">
+        <script src="js/scripts.js"></script>
     </head>
     <body>
         <h1>Travel The World - Cadastrar</h1>
         <h3>Nova viagem:</h3> 
             <form>
                 <label>Código do pedido da viagem:</label></div>
-                <input type="number" /> <br />
+                <input type="number" id="codigoviagem" /> <br />
 
                 </div><label>Nome do pacote ou local de ida:</label></div>
-                <input type="text" /> <br />
+                <input type="text" id="nomepacote" /> <br />
 
                 </div><label>Quantidade de diárias:</label></div>
-                <input type="number" /> <br />
+                <input type="number" id="diarias" /> <br />
 
                 </div><label>Data de ida:</label></div>
-                <input type="date" /> <br />
+                <input type="date" id="dataida" /> <br />
 
                 </div><label>Data de retorno:</label></div>
-                <input type="date" /> <br />
+                <input type="date" id="dataretorno" /> <br />
 
                 </div><label>Status pedido:</label></div>
-                <input type="text" /> <br />
+                <input type="text" id="statuspedido"  /> <br />
 
                 </div><label>Status pagamento:</label></div>
-                </div><input type="text" /> <br />
-
+                </div><input type="statuspagamento" /> <br />
                 <br />
-                <input type="submit" value="Salvar">
+                <input type="submit" value="Salvar" onclick="salvar(event)">
             </form>
 
         <br />
