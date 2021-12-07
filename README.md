@@ -51,7 +51,7 @@ Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPrati
 <br />
 Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1wMHzEROobVHKBTVVfy_FwQCTFCnyybXksC8UlsdJ-1E/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 34<a/>
 <br />   
-Link resolução Atividade: <a href="">AtividadePratica34<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_Web_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica34">AtividadePratica34<a/>
 <br />
   
 <h3>AtividadePratica35</h3>
